@@ -1,0 +1,26 @@
+.button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+
+.movie-item {
+  width: 98%;
+}
+
+.movie-item-img {
+  width: 100%;
+}
+
+.popup-container {
+  background-color: #ffffff;
+  padding: 50px;
+  padding-top: 20px;
+  border-radius: 15px;
+  text-align: right;
+}
+
+.close-icon {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
